@@ -1,0 +1,12 @@
+{
+  "name": "my-game",
+  "version": "1.0.0",
+  "description": "My Construct game",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve -s ."
+  },
+  "dependencies": {
+    "serve": "^12.0.0"
+  }
+}
